@@ -1,6 +1,6 @@
 # READ ME !
 # BADUSB Folder 
-All of my scripts are created for discord webhooks.
+Most of my scripts are using for discord webhooks.
 
 # Heres a tutorial to help you creating a discord wekhook.
 1 - Create a private discord server.<br>
@@ -9,15 +9,12 @@ All of my scripts are created for discord webhooks.
 4 - Click 'Copy Webhook URL'<br>
 
 Great ! You just created a discord webhook and you got his link
-Dont forget to put it on different scripts
+Dont forget to paste it in scripts
 
 # Payloads
-Im using uploaded payloads for my scripts<br>
-The easiest way for you to upload ur payload is to use discord.
-Simply upload it on a channel and right click on the download button to copy the link.<br>
+Some scripts needs you to upload the payload and to get a direct download link
+The easiest way for you to upload the payload is to use discord.
+Simply upload it (payload.ps1) on a channel and right click on the download button to copy the link.<br>
+Same, dont forget to paste it in scripts
 
-
-
-I am not responsible for the consequences of using my scripts.
-
-
+# I am not responsible for the consequences of using my scripts.
