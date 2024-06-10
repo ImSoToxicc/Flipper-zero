@@ -1,0 +1,9 @@
+REM Title : Website Opener
+REM Description : Open any website on Windows
+REM Author : ImSoToxicc ( https://github.com/ImSoToxicc/Flipper-zero )
+
+GUI r
+DELAY 300
+REM Put your website below
+STRING explorer https://google.com
+ENTER
