@@ -1,6 +1,6 @@
 # READ ME !
 # BADUSB Folder 
-Most of my scripts are using for discord webhooks.
+Most of my scripts are using discord webhooks.
 
 # Heres a tutorial to help you creating a discord wekhook.
 1 - Create a private discord server.<br>
