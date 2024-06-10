@@ -12,7 +12,7 @@ Great ! You just created a discord webhook and you got his link
 Don't forget to paste it in scripts
 
 # Payloads
-Some scripts needs you to upload the payload and to get a direct download link<br>
+Some scripts needs you to upload the payload.<br>
 The easiest way for you to upload the payload is to use discord.<br>
 Simply upload it (payload.ps1) on a channel and right click on the download button to copy the link.<br>
 Same here, don't forget to paste the link in scripts.
